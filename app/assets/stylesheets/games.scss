@@ -1,0 +1,14 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@import "bootstrap";
+
+body {
+    background-color: rgb(203, 228, 203);
+}
+
+#indexGame {
+    background-color: #28a745;
+    color: white;
+}
